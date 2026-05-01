@@ -1,6 +1,5 @@
 <h1 align="center">
   <a href="https://github.com/23-Andres-QC">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=00ADD8&center=true&vCenter=true&width=750&lines=¡Hola%2C+soy+Andrés+Oseas+Quiliche+Chávez!+👋;Full-Stack+Developer+%7C+Backend+Engineer;Go+(Gin)+%E2%80%A2+.NET+%E2%80%A2+Vue+3+%E2%80%A2+Docker;Construyendo+sistemas+escalables+en+producción+🚀" alt="Typing SVG" />
   </a>
 </h1>
 
