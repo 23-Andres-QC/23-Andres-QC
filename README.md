@@ -1,182 +1,165 @@
-<h1 align="center">
-  <a href="https://github.com/23-Andres-QC">
-  </a>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23-Andres-QC&label=Visitas+al+perfil&color=00ADD8&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/23-Andres-QC?label=Followers&style=for-the-badge&color=00ADD8" alt="followers" />
-  <img src="https://img.shields.io/badge/Lima-Perú-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:00ADD8&height=200&section=header&text=Andrés%20Quiliche&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Backend%20Engineer&descAlignY=58&descSize=18" width="100%" />
+
+<a href="https://github.com/23-Andres-QC">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=600&lines=APIs+REST+de+alto+rendimiento+en+Go;Docker+%C2%B7+Nginx+%C2%B7+Observabilidad;Vue+3+%2B+.NET+%2B+PostgreSQL;Sistemas+que+escalan+en+producci%C3%B3n+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/📍_Lima,_Perú-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_Ing._TI_y_Sistemas_·_ESAN-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/🟢_Abierto_a_oportunidades-0F172A?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=23-Andres-QC&label=visitas&color=00ADD8&style=flat-square" />
 </p>
+
+</div>
 
 ---
 
-## 🧑‍💻 Sobre Mí
+### 👋 Sobre mí
 
-```typescript
-const andres = {
-  nombre: "Andrés Oseas Quiliche Chávez",
-  rol: "Full-Stack Developer & Backend Engineer",
-  ubicacion: "Lima, Perú 🇵🇪",
-  educacion: {
-    universidad: "Universidad ESAN",
-    carrera: "Ingeniería de Tecnologías de Información y Sistemas",
-    ciclo: "VIII"
-  },
-  stack_principal: ["Go (Gin)", "C# / .NET", "Vue 3", "PostgreSQL", "Docker"],
-  enfoque: ["APIs REST de alto rendimiento", "Arquitectura en N-Capas", "DevOps"],
-  metodologia: "SCRUM ágil",
-  pasion: "Construir sistemas robustos que escalen en producción 🚀",
-  aprendiendo_ahora: ["Aprendizaje por Refuerzo", "Microservicios avanzados", "Cloud Native"]
-};
+Desarrollo **backends robustos y frontends reactivos** que corren en producción, no solo en local. Me especializo en **APIs REST en Go**, **arquitecturas en N-Capas con .NET** y en todo lo que pasa después del `git push`: contenedores, reverse proxies, pruebas de carga y monitoreo.
+
+He trabajado en proyectos para **entidades públicas y privadas** bajo **SCRUM**, desde el levantamiento de requerimientos hasta el despliegue en servidores Linux.
+
+```yaml
+ahora_mismo:
+  construyendo:  microservicios en Go listos para producción
+  aprendiendo:   [Aprendizaje por Refuerzo, Cloud Native, Kubernetes]
+  usando_ia:     Claude Code + MCP en mi flujo diario
+  hablemos_de:   arquitectura backend, DevOps, observabilidad
 ```
 
-> 💼 Desarrollador Full-Stack con sólida experiencia en el diseño, desarrollo y despliegue de aplicaciones web y móviles en entornos productivos **Linux** y **Windows**. Historial comprobado en proyectos de alto impacto para entidades **públicas** y **privadas**, implementando **APIs REST robustas**, **arquitecturas escalables** y **orquestación de contenedores con Docker**.
+---
+
+### 🛠️ Stack
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go,cs,dotnet,python&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,quasar,js,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&theme=dark" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,ubuntu,linux,cloudflare&theme=dark" />
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Observabilidad</b></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+      <img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>ML / Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Herramientas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,notion&theme=dark" /></td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Stack Tecnológico
+### 🚀 Proyectos destacados
 
-### 🔹 Backend
-![Go](https://img.shields.io/badge/Go_(Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 Frontend
-![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### 🏔️ Sistema PUSAQ
+**UGEL Arequipa** · Oct 2025 – Feb 2026
 
-### 🔹 Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+Plataforma educativa en producción.
 
-### 🔹 Cloud & BaaS
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Contabo VPS](https://img.shields.io/badge/Contabo_VPS-1A1A2E?style=for-the-badge&logo=linux&logoColor=white)
+| 👤 Usuarios | 🏫 Instituciones | ⚡ Concurrencia |
+|:---:|:---:|:---:|
+| **799** | **1,199** | **~1,200** |
 
-### 🔹 DevOps & Infraestructura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+- APIs REST en **Go (Gin)** + frontend **Vue 3**
+- **6 servicios** orquestados con Docker Compose
+- Pruebas de estrés con **k6**
+- Observabilidad: **Prometheus · Grafana · Loki**
+- Ubuntu 24 + **Nginx** como reverse proxy y balanceador
+- Equipo ágil de **7 devs**, demos semanales a stakeholders
 
-### 🔹 Testing & Monitoreo
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+`Go` `Vue 3` `Docker` `Nginx` `PostgreSQL`
 
-### 🔹 Machine Learning & AI
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### 🔹 Herramientas & Metodologías
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+#### ⛏️ Sitio Corporativo IGDGROUP
+**Consultoría minera** · Ene 2025
+
+Sistema web corporativo a medida.
+
+- Backend en **N-Capas** con **C# / .NET**
+  <br/>`Entities → DTOs → Repositories → Services → Controllers`
+- UI con **Quasar** y componentes reutilizables
+- Lideré el levantamiento de requerimientos con ceremonias **SCRUM**
+
+`C#` `.NET` `Quasar` `SQL Server`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Proyectos Destacados
+### 📊 Actividad
 
-### 🏔️ **Sistema PUSAQ** — UGEL Arequipa `Oct 2025 – Feb 2026`
-> Plataforma educativa en producción con **799 usuarios registrados** y **1,199 instituciones activas**.
+<div align="center">
 
-- 🔧 Arquitecté **APIs REST de alto rendimiento** en `Go (Gin)` conectadas a un frontend reactivo en `Vue 3`.
-- 🐳 Orquesté y contenericé **6 microservicios** (backend y frontend) con `Docker Compose` en producción.
-- ⚡ Pruebas de estrés con **k6** soportando hasta **~1,200 usuarios concurrentes**.
-- 📊 Ecosistema completo de observabilidad con **Prometheus + Grafana + Loki**.
-- 🌐 Despliegue en **Ubuntu 24 vía SSH**, con **Nginx** como reverse proxy y balanceador de carga.
-- 👥 Colaboración en equipo ágil de **7 desarrolladores** liderando presentaciones semanales a stakeholders.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=23-Andres-QC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-Andres-QC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8" />
 
-### ⛏️ **Sitio Corporativo IGDGROUP SAC** `Ene 2025`
-> Sistema web corporativo para empresa de consultoría minera.
+<img src="https://streak-stats.demolab.com?user=23-Andres-QC&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" />
 
-- 🏗️ Diseño e implementación de **arquitectura backend en N-Capas** con `C# / .NET` (Entities, DTOs, Repositories, Services, Controllers).
-- 🎨 Interfaz reactiva y moderna con `Quasar Framework` basada en componentes reutilizables.
-- 📋 Liderazgo del levantamiento de requerimientos aplicando ceremonias **SCRUM**.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23-Andres-QC&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=ffffff&area=true" width="100%" />
+
+</div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 🎓 Formación y certificaciones
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=23-Andres-QC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-Andres-QC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23-Andres-QC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23-Andres-QC&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+- 🏛️ **Universidad ESAN** — Ingeniería de Tecnologías de Información y Sistemas
+- 📜 **SAP** — Especialización Full Stack
+- 🤖 **Claude Code** — Uso profesional (MCP, Cowork, Code)
+- ⚙️ **n8n** — Automatización y flujos de trabajo
+- 🌐 Español (nativo) · Inglés (intermedio)
 
 ---
 
-## 🎓 Educación & Certificaciones
+### 📫 Conectemos
 
-🏛️ **Universidad ESAN** — Lima, Perú  
-> *Ingeniería de Tecnologías de Información y Sistemas* — `VIII Ciclo`
+<div align="center">
 
-📜 **Certificaciones:**
-- ✅ Uso de Sistemas **SAP** (Especialización Full Stack)
-- ✅ Uso Profesional de **Claude Code** (MCP, COWORD, CODE)
-- ✅ Automatización y flujos de trabajo con **n8n**
+<a href="https://www.linkedin.com/in/andres-quiliche-chavez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:andresquilichechavez@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/51959319910"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-🌐 **Idiomas:** Español (Nativo) · Inglés (Intermedio III)
+<br/><br/>
 
----
+<sub>⭐ Si algún proyecto te sirvió, una estrella siempre se agradece.</sub>
 
-## 💡 Lo Que Me Define
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:0E7490,100:0F172A&height=120&section=footer" width="100%" />
 
-- 🎯 **Excelencia** en levantamiento de requerimientos y comunicación asertiva con clientes.
-- 🤝 **Liderazgo técnico** y trabajo en equipo bajo marcos ágiles.
-- 🎤 Facilidad para presentar avances técnicos a directivos y stakeholders.
-- 🧠 Toma de decisiones bajo presión y resolución proactiva en producción.
-- 📚 Mentalidad orientada al **aprendizaje continuo**.
-
----
-
-## 📫 Conectemos
-
-<p align="center">
-  <a href="https://pe.linkedin.com/in/andres-quilichechavez-185b86289">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:andresquilichechavez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/23-Andres-QC">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/51959319910">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"El código limpio no se escribe siguiendo reglas. Se escribe a partir del cuidado y la disciplina." — Robert C. Martin</i>
-</p>
-
-<p align="center">
-  ⭐️ <b>Si te gustó alguno de mis proyectos, no olvides darle una estrella!</b> ⭐️
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=120&section=footer" width="100%" />
+</div>
